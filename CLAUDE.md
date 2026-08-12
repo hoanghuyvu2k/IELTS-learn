@@ -25,9 +25,15 @@ Kế hoạch chi tiết nằm ở `IELTS_Study_Plan.md` — luôn đọc file n�
 3. Tạo file **`answer.md`** trong cùng folder ngày đó, gồm:
    - Đáp án đúng của từng bài tập (chép từ Key trong sách)
    - Đối chiếu với câu trả lời người dùng đã điền trong `lesson.md`: đánh dấu đúng/sai cho từng câu
-   - Tổng điểm mỗi bài tập (số câu đúng/tổng)
-   - Giải thích ngắn cho các câu sai (dựa theo lý thuyết ngữ pháp/từ vựng của unit đó)
+   - **Với mỗi câu sai:** không chỉ nêu đáp án đúng, mà phải **giải thích rõ tại sao đáp án đó đúng** (dựa theo lý thuyết ngữ pháp/từ vựng của unit — quy tắc nào áp dụng, vì sao câu trả lời của người dùng không phù hợp).
+   - **Với mỗi câu bị bỏ trống (chưa trả lời):** tự điền đáp án đúng vào, đánh dấu rõ là "chưa làm" (không tính vào điểm số/mẫu số đúng), và **giải thích tại sao đáp án đó đúng** giống như câu sai — không để trống không giải thích.
+   - Tổng điểm mỗi bài tập (số câu đúng/tổng, câu bỏ trống không tính là đúng)
    - Danh sách lỗi sai lặp lại (nếu có pattern lỗi giống nhau nhiều câu)
+3b. Đồng thời tạo file **`new_word.md`** trong cùng folder ngày đó, tổng hợp **từ vựng/collocation mới từ các câu bị sai hoặc bỏ trống** (không cần lấy từ câu đã làm đúng), gồm với mỗi từ/cụm:
+   - Từ/cụm từ (kèm loại từ: danh từ/động từ/tính từ...)
+   - Nghĩa tiếng Việt
+   - Ví dụ câu (lấy từ chính bài tập đã sai, hoặc ví dụ trong sách nếu có)
+   - Ghi chú collocation/cách dùng nếu có (ví dụ đi kèm giới từ nào, dễ nhầm với từ nào)
 4. Cập nhật bảng **"Nhật ký học tập hàng ngày"** và mục **"Ghi chú lỗi sai lặp lại"** trong `IELTS_Study_Plan.md` dựa trên kết quả chấm.
 
 ## Rule: Khi người dùng yêu cầu "cập nhật kết quả hôm nay"

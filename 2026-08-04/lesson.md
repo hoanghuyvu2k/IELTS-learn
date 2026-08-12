@@ -153,5 +153,5 @@
 - Bài tập 4 (Grammar C4): đúng 5/5
 - Vocabulary 1.4: đúng 1/6
 - Vocabulary 2.4: đúng 4/8
-- Vocabulary 3.1: đúng 2/5 (đã làm)
+- Vocabulary 3.1: đúng 2/9 (5 câu bỏ trống đã được điền đáp án + giải thích trong `answer.md`)
 - Lỗi sai lặp lại: (1) dùng present simple thay vì continuous khi tả xu hướng/thay đổi dần (Grammar C3); (2) chọn nhầm từ gần nghĩa trong bài điền từ vựng theo box (Vocab 1.4, 2.4, 3.1)
