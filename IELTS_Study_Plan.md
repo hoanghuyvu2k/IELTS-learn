@@ -106,6 +106,7 @@ _(Ghi lại các lỗi ngữ pháp, từ vựng, hoặc kỹ năng làm bài hay
 
 - **Grammar:** dùng present simple thay vì present continuous khi mô tả xu hướng/thay đổi dần (trends/changing situations) — VD "the demand is going up" chứ không phải "goes up". (phát hiện 2026-08-04)
 - **Vocabulary:** hay chọn nhầm từ gần nghĩa khi điền từ theo box (relation/relationship/relative/related/nurture/family...) — cần đọc kỹ nghĩa từng từ trước khi ghép câu, tránh ghép theo cảm tính. (phát hiện 2026-08-04)
+- **Speaking script:** (1) quên -s với chủ ngữ ngôi thứ ba số ít ("my bedroom have", "it have" → has); (2) viết thường "i", sai dấu câu, tách mệnh đề phụ thành câu riêng ("When I first wake up." đứng một mình); (3) sai chính tả (mane→many, excercise→exercise, downstair→downstairs, daile→daily); (4) thiếu giới từ/từ nối ("go out the balcony", "go downstair make"); (5) dùng "will + V-ing" để nói thói quen — phải dùng present simple; (6) "very like" → "really like". (phát hiện 2026-09-21, xem `ielts-practice/writing/21-9-2026_corrected.md`)
 
 ---
 

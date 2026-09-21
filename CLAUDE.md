@@ -48,6 +48,33 @@ Kế hoạch chi tiết nằm ở `IELTS_Study_Plan.md` — luôn đọc file n�
 
 **Lưu ý quan trọng khi tạo bài học mới (áp dụng ngược lại cho rule "tạo bài học"):** trước khi chọn unit để tạo bài học, luôn tra bảng **"Tiến độ tài liệu"** trong plan để lấy **unit tiếp theo** (unit cuối cùng đã học + 1) cho đúng loại tài liệu (Grammar/Vocabulary) thay vì luôn bắt đầu lại từ Unit 1.
 
+## Rule: Khi người dùng yêu cầu "check grammar" / "correct my paragraph" (folder `ielts-practice/`)
+
+Áp dụng cho các file người dùng tự viết trong `ielts-practice/` (ví dụ `ielts-practice/writing/21-9-2026.txt`). Đây là **kịch bản để nói (speaking script)** cho IELTS Speaking, không phải bài Writing Task — nên văn phong phải là văn nói tự nhiên, không phải văn viết học thuật.
+
+1. Đọc file người dùng chỉ định (nếu không nói rõ, dùng file mới nhất trong `ielts-practice/writing/`). Dòng đầu thường là câu hỏi của giám khảo — giữ nguyên làm đề bài.
+2. **Không sửa đè file gốc.** Tạo file mới cùng folder, tên `<tên-file-gốc>_corrected.md` (ví dụ `21-9-2026_corrected.md`). Nếu đã tồn tại thì cập nhật file đó.
+3. File `_corrected.md` gồm:
+   - **Câu hỏi** (chép từ file gốc)
+   - **Bài gốc** (giữ nguyên, để đối chiếu)
+   - **Bài đã sửa (Band 7+ model answer)**: viết lại đoạn văn thành câu trả lời phù hợp với bài thi IELTS Speaking:
+     - Giữ nguyên ý tưởng và câu chuyện của người dùng, không bịa thêm chi tiết cá nhân khác xa nội dung gốc.
+     - Sửa hết lỗi ngữ pháp (thì, chia động từ, mạo từ, giới từ, số ít/số nhiều, chính tả, viết hoa, dấu câu).
+     - Văn nói tự nhiên, mạch lạc: có từ nối tự nhiên (discourse markers như "Well,", "Actually,", "After that,"), trả lời thẳng vào câu hỏi, có ý mở rộng/lý do/ví dụ ngắn. Độ dài hợp lý cho Part tương ứng (Part 1: khoảng 2–4 câu / 20–30 giây; Part 2: 1–2 phút; Part 3: 3–5 câu).
+     - Dùng từ vựng và collocation tự nhiên, ở mức Band 7 (một vài idiom/phrasal verb phù hợp), nhưng không quá hoa mỹ hay học thuật — người dùng đang ở mức B1 → hướng tới 7.0, nên bản sửa phải là thứ họ có thể nhớ và tự nói được.
+   - **Bảng lỗi đã sửa**: cột (Câu gốc → Câu sửa → Giải thích ngắn bằng tiếng Việt vì sao sai / quy tắc nào).
+   - **Từ vựng / cụm từ hay đáng học** (từ bản sửa): từ/cụm, nghĩa tiếng Việt, ví dụ ngắn.
+4. Nếu có lỗi lặp lại nhiều lần (ví dụ luôn sai thì, thiếu mạo từ, "it have" thay vì "it has"), ghi thêm vào mục "Ghi chú lỗi sai lặp lại" trong `IELTS_Study_Plan.md`.
+5. Trả lời ngắn gọn trong chat: bản đã sửa + 2–3 lỗi chính cần chú ý; chi tiết nằm trong file `_corrected.md`.
+
+## Rule: Khi người dùng yêu cầu "tạo plan" (không phải bài học IELTS hàng ngày)
+
+Áp dụng khi người dùng yêu cầu lên kế hoạch cho một dự án/việc khác ngoài phạm vi bài học IELTS hàng ngày (ví dụ: kế hoạch làm web app, dự án cá nhân...).
+
+1. Lưu plan vào file markdown trong folder **`plan/`** ở thư mục gốc (tạo folder này nếu chưa có).
+2. Đặt tên file mô tả ngắn gọn nội dung plan, dạng kebab-case, ví dụ `plan/flashcard-webapp.md`.
+3. Nếu plan cho cùng một chủ đề được cập nhật sau này, sửa/nối tiếp vào đúng file đó thay vì tạo file mới trùng chủ đề.
+
 ---
 
 ## Bảng "Tiến độ tài liệu" (thêm vào `IELTS_Study_Plan.md` nếu chưa có)
